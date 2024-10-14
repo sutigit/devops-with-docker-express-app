@@ -32,4 +32,4 @@ jobs:
           uses: docker/build-push-action@v6
           with:
             push: true
-            tags: devopsdockeruh/coursepage:latest
+            tags: sutigit/devops-with-docker-part3:latest
